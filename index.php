@@ -54,8 +54,8 @@ function loginForm(){
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>Tuts+ Chat Application</title>
-        <meta name="description" content="Tuts+ Chat Application" />
+        <title>AsOSchat 1.0.0</title>
+        <meta name="description" content="AsOS chat" />
         <link rel="stylesheet" href="style.css" />
     </head>
     <body>
